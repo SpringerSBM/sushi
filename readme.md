@@ -1,3 +1,8 @@
+## Important Note:
+
+From now on the Track team (Content Usage) will maintain the relevant documentation for SUSHI in a different repository: [SUSHI for Springer Nature](https://github.com/springernature/sushi)
+
+
 # The Springer SUSHI service
 
 The Springer SUSHI service enables our customers to download their [COUNTER](http://www.projectcounter.org/) usage statistics for the [Springer Link](http://link.springer.com) platform. Information on the SUSHI protocol is available from the [NISO website](http://www.niso.org/workrooms/sushi/), as is the [schema](http://www.niso.org/schemas/sushi/counter_sushi4_0.xsd) and the [WSDL](http://www.niso.org/schemas/sushi/counter_sushi4_0.wsdl).
@@ -59,8 +64,6 @@ For these platforms only the journal reports apply:
     JR5
 
 
+## SUSHI for Nature
 
-
-
-
-
+Please check the following document: [SUSHI for Springer Nature](https://github.com/springernature/sushi)
